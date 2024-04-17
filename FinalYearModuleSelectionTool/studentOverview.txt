@@ -1,0 +1,22 @@
+Name: fgds fds
+PNo: gdsf
+Email: dsf
+Date: 2023-11-01
+Course: Computer Science
+
+Selected Modules: 
+=========
+Module code: CTEC3451, Module name: Development Project, Module Credits: 30, Mandatory on your course? true, Block: BLOCK_3_4
+
+Module code: CTEC3701, Module name: Software Development: Methods & Standards, Module Credits: 30, Mandatory on your course? true, Block: BLOCK_1
+
+Module code: CTEC3702, Module name: Big Data and Machine Learning, Module Credits: 30, Mandatory on your course? true, Block: BLOCK_2
+
+Module code: CTEC3705, Module name: Advanced Web Development, Module Credits: 30, Mandatory on your course? false, Block: BLOCK_3_4
+
+
+Reserved modules: 
+=========
+Module code: CTEC3704, Module name: Functional Programming, Module Credits: 30, Mandatory on your course? false, Block: BLOCK_3_4
+
+
